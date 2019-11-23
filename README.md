@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Sleep Tracker RecyclerView animated demo' alt='Sleep Tracker RecyclerView demo' />
+<img src='sleepTracker02.gif' title='Sleep Tracker RecyclerView 02 animated demo' alt='Sleep Tracker RecyclerView 02 demo' />
 
 ## Notes
 
