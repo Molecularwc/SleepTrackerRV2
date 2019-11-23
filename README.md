@@ -1,20 +1,20 @@
-# <name of app>
+# Sleep Tracker RecyclerView 02
 
 An Android application that uses a RecyclerView to track and display the user's sleep quality.
 
-Submitted by: <name>
+Submitted by: **Richard Salvaty**
 
-Time spent: <time>
+Time spent: **2 hours**
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Refactor onBindViewHolder
-* [ ] Refactor onCreateViewHolder
-* [ ] Refresh sleep night data using DiffUtil
-* [ ] Add data binding to the adapter.
-* [ ] Add binding adapters.
+* [X] Refactor onBindViewHolder
+* [X] Refactor onCreateViewHolder
+* [X] Refresh sleep night data using DiffUtil
+* [X] Add data binding to the adapter.
+* [X] Add binding adapters.
 
 
 The following **additional** features are implemented:
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 **Richard Salvaty**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
